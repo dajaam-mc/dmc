@@ -1,0 +1,219 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if][req_id:d4a433f4-755e-4377-8fa1-11afd0ad03f71707643803064] = ftbxmodcompat
+  randommode = false
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if][req_id:0a145a14-1e16-49b7-b10b-7c4eb8cf6a8e1707634226318] = ftbteams
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if][req_id:92884212-b32b-41ee-8974-a356bb9914d21707640410323] = nethersdelight
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if][req_id:fdd207b1-8bc8-4b82-976b-1d6ea382ccba1707599525228] = ftblibrary
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if][req_id:481b96a2-7900-4890-a2a6-7ea1794fa6ca1707634219371] = ftbquests
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = betterminecraftpanorama
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -9
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = 80
+  action = movebutton
+  y = 35
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 20
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  orientation = bottom-centered
+  x = -98
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = 59
+  action = movebutton
+  y = 35
+}
+
+customization {
+  identifier = %id=376358%
+  orientation = top-right
+  x = -25
+  action = movebutton
+  y = 5
+}
+
+customization {
+  identifier = %id=2980%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 200
+  action = resizebutton
+  height = 19
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376286%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376286%
+  orientation = bottom-right
+  x = -117
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=376286%
+  width = 114
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -101
+  action = movebutton
+  y = 13
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 13
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -101
+  action = movebutton
+  y = 35
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 157
+  action = deep_customization_element:title_screen_branding
+  actionid = cd4d0ff7-8921-426f-aaab-dcfd35f2f9c01686808471727
+  y = 445
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 530
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 746944d3-62e6-4d9c-9ed9-e1b974f28e201686808471727
+  y = 214
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 290
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 7b095722-0489-404a-96d8-fb01d659d1941686808471727
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = mid-centered
+  splash_color = #ffff00
+  hidden = true
+  x = -90
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 1448d3ba-b3f4-46c7-80b7-7eb153fd79f51686808471727
+  y = -125
+  height = 30
+}
+
+customization {
+  path = resourcepacks/Graphics/fabricapi.png
+  orientation = mid-centered
+  x = 82
+  width = 16
+  action = addtexture
+  actionid = c03be17b-5a17-4467-aeb2-9cfffe181c941686808672411
+  y = 37
+  height = 16
+}
+
+customization {
+  orientation = bottom-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://github.com/LunaPixelStudios/Better-MC/wiki/Performance-Guide%btnaction_splitter_fm%
+  x = 3
+  width = 114
+  action = addbutton
+  actionid = cb4f914f-fb88-4d53-adb5-b7199c08b7c81686808766368
+  y = -25
+  description = A guide on improving your FPS!
+  label = Performance Guide
+  height = 20
+}
+
