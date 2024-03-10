@@ -1,3 +1,301 @@
 # DAJAAM MC (DMC)
 
 DMC is a not so fork of Luna Pixel Studio's Better MC v24 (BMC2) that has many additions and moditications to better suit the needs of dajaam & friends community server featuring almost 300 mods!
+
+# Mods
+- Stoneworks by Fuzs
+- Advanced Netherite by Autovw
+- Better Nether by quiqueck, paulevs (original author)
+- Repurposed Structures by TelepathicGrunt
+- DEUF Refabricated by ElocinDev
+- Searchables by Jaredlll08
+- Ender Dragon Fight Remastered by MrGenie151
+- Formations Nether by SuperMartijn642
+- GuardVillagers by MrSterner
+- Magnum Torch by Fuzs
+- Cardinal Components API by UpcraftLP, Pyrofab
+- Resource Pack Overrides by Fuzs
+- Indium by comp500
+- Bookshelf by Darkhax
+- You Shall Not Spawn! by ElocinDev
+- Crawl by fewizz, McSkinnerOG, Chocohead
+- Puzzle by PuzzleMC, Motschen
+- Smarter Farmers by Mehvahdjukaar
+- Supplementaries by MehVahdJukaar, Plantkillable
+- betterfpsdist mod by Love, Cheese and small house plants
+- Packet Fixer by TonimatasDEV
+- Yeetus Experimentus by Sunekaer
+- ModernFix by embeddedt
+- Visuality by PinkGoosik
+- Framework by MrCrayfish
+- Mouse Tweaks by Ivan Molodetskikh (YaLTeR)
+- Roughly Enough Professions by Mrbysco, ShyNieke
+- biomemusic mod by Someaddon
+- Universal Graves by Patbox
+- Balm by BlayTheNinth
+- Better chunk loading mod by 
+- MidnightLib by Motschen, TeamMidnightDust
+- Kambrik by Ejektaflex
+- Dungeons and Taverns by NovaWostra, Walls17
+- Deeper and Darker by Kyanite Mods
+- Trinkets by Emi, C4
+- Right Click Harvest by Jamalam
+- Nature's Compass by ChaosTheDude
+- FTB Quests by FTB Team
+- Fabric Seasons: Extras by D4rkness_King
+- Better Tridents by Fuzs
+- Xaero's Minimap by Xaero96
+- Open Parties and Claims by xaero96, other contributors
+- AutoSlabs by Andrew6rant (Andrew Grant)
+- Structory by Stardust Labs
+- Patchouli by Vazkii, williewillus
+- BetterF3 by cominixo, TreyRuffy
+- oωo by glisco, BasiqueEvangelist, Noaaan
+- Fabric Language Kotlin by FabricMC
+- Tips by Darkhax
+- Boat Break Fix by ElocinDev
+- Better Statistics Screen by TheCSDev
+- YUNG's Better Ocean Monuments by YUNGNICKYOUNG, Tera
+- BadOptimizations by Thosea
+- Fabric Seasons by D4rkness_King
+- Way2Way by lack
+- Carry On by Tschipp, Purplicious_Cow, cy4n
+- SuperBetterGrass by dima_dencep, LambdAurora
+- Language Reload by Jerozgen
+- Easy Anvils by Fuzs
+- YUNG's Better Strongholds by YUNGNICKYOUNG, Acarii
+- MixinTrace by comp500
+- VoidZ by Globox_Z
+- Ash API by Trikzon
+- NotEnoughAnimations by tr7zw
+- Elytra Slot by Illusive Soulworks
+- Jade by Snownee
+- Farmer's Delight by Zifiv, vectorwing, StevenPlayzz, dopadream, orlouge, BarchamMal, AwesomeDude091
+- Boat Item View Fabric by 50ap5ud5, Treblero
+- Another Furniture by Starfish Studios
+- Let Me Despawn by frikinjay
+- CIT Resewn by SHsuperCM
+- Chat Heads by dzwdz, Fourmisain
+- Paintings++ by Subaraki, StrikerRocker
+- Philip`s Ruins by Philip
+- Mod Menu by Prospector, jackassmc, TerraformersMC
+- Nicer Skies by ZtereoHYPE
+- Chunksending Mod by Someaddons
+- Ping Wheel by Luken
+- Better Statistics Screen by TheCSDev
+- Falling Leaves by Fourmisain, BrekiTomasson, RandomMcSomethin
+- Spawners+ by NathanTheCraziest
+- Better Mount HUD by Lortseam
+- clientcrafting Mod by 
+- FancyMenu by Keksuccino
+- kennytv's epic force close loading screen mod for Fabric by kennytv
+- YetAnotherConfigLib by isXander
+- YUNG's Better Witch Huts by YUNGNICKYOUNG, Acarii
+- Illager Invasion by Dricky, Safro, Zeckemith, Fuzs
+- YUNG's Menu Tweaks by YUNGNICKYOUNG
+- Double Doors by Rick South
+- InmisAddon by Globox_Z, Pois1x
+- Load My F***ing Tags by Blodhgarm
+- Geophilic by bebebea_loste
+- SimpleHats by fonnymunkey, ArtsyDy
+- FTB XMod Compat by FTB Team
+- Waystones by BlayTheNinth
+- Joy of Painting by xerca
+- Sodium Extra by FlashyReese
+- Pick Up Notifier by Fuzs
+- GeckoLib 4 by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
+- Tom's Simple Storage Mod by tom5454
+- Universal Ores by Hugman
+- Better Advancements by way2muchnoise
+- Nether's Delight by JustinPlayzz, StevenPlayzz, Umpaz, SoyTutta
+- Mod Menu by Prospector, haykam821, TerraformersMC
+- Kiwi Library by Snownee
+- YUNG's Better End Island by YUNGNICKYOUNG, Acarii
+- Better Trim Tooltips by Andrew6rant (Andrew Grant)
+- Explorify by bebebea_loste
+- Inventory Management by Roundaround
+- Sparse Structures by MaxenceDC (ign: Mythologique)
+- YUNG's Better Mineshafts by YUNGNICKYOUNG
+- Friends&Foes by Faboslav
+- Polymorph by Illusive Soulworks
+- 3d-Skin-Layers by tr7zw
+- Sodium by @jellysquid3
+- Charm of Undying by Illusive Soulworks
+- Decorative Blocks by Stohun, lilypuree, TheWinABagel (port)
+- FTB Teams by FTB Team
+- Bygone Nether by Izofar
+- YUNG's API by YUNGNICKYOUNG
+- Chipped by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat
+- Immersive Portals by qouteall, Other Contributors (see GitHub)
+- AdventureZ by Globox_Z
+- Snow! Real Magic! by Snownee
+- Neruina by Bawnorton
+- Villages&Pillages by Faboslav
+- Krypton by tuxed
+- Villager Names by Rick South
+- Formations Overworld by SuperMartijn642
+- Item Filters by LatvianModder
+- Vein Mining by Illusive Soulworks
+- Naturalist by Starfish Studios
+- Nether Chested by Fuzs
+- Reacharound by spAnser
+- Farmer's Knives by ianm1647
+- Every Compat by MehVahdJukaar
+- Euphoria Patcher by isuewo
+- ToolStats by Darkhax
+- Grass Overhaul by ElocinDev, Luna Pixel Studios
+- Promenade by Hugman
+- Spawn by Ninni
+- Starlight by Spottedleaf
+- Resourceful Lib by ThatGravyBoat, Epic_Oreo
+- Clumps by Jaredlll08
+- GeckoLib 4 by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
+- Resourcefulconfig by ThatGravyBoat
+- Thermoo by TheDeathlyCow
+- Hybrid Aquatic by dragoncommands, MysticKoko, Andante
+- XaeroPlus by rfresh2
+- Forge Config Screens by Fuzs
+- Configured Defaults by Fuzs
+- Fabric Language Kotlin by FabricMC
+- Visual Workbench by Fuzs
+- Immersive Melodies by Luke100000
+- Iris by coderbot, IMS212, Justsnoopy30, FoundationGames
+- Animatica by FoundationGames
+- Mindful Darkness by Fuzs
+- Fabric Seasons: Delight Compat by D4rkness_King
+- Transparent by Trikzon
+- recipeessentials Mod by 
+- Overflowing Bars by Fuzs
+- Alternate Current by Space Walker
+- The Bumblezone - Fabric by TelepathicGrunt
+- YUNG's Better Nether Fortresses by YUNGNICKYOUNG, Acarii
+- Memory Leak Fix by FX - PR0CESS
+- Easy Magic by Fuzs
+- Smoothchunk mod by Someaddons
+- Talk Bubbles by Globox_Z
+- ImmediatelyFast by RK_01
+- Chefs Delight by Redstone Games
+- Drippy Loading Screen by Keksuccino
+- FallingTree by Rakambda
+- Animal Feeding Trough by Slexom
+- XP Storage - Trinkets by Pardys
+- FullStack Watchdog by TelepathicGrunt
+- Server Country Flags by Khajiitos
+- Better End by Quiqueck (code), paulevs (code & art), Bulldog83 (code & art), Edos (building), Yuki (art), Seaward (art), Firel (music)
+- Variant Crafting Tables by Xanthian
+- Cherished Worlds by Illusive Soulworks
+- Diagonal Fences by Fuzs, XFactHD
+- Hearths by bebebea_loste
+- Memorysettings Mod by Someaddons
+- Architectury by shedaniel
+- Gpu memory leak fix mod by 
+- Fast Paintings by Mehvahdjukaar
+- Moonlight by MehVahdJukaar
+- Necronomicon by ElocinDev
+- Cultural Delights Fabric by MrSterner
+- FTB Library by FTB Team
+- CleanCut by Rongmario
+- Better Ping Display by Quintinity
+- When Dungeons Arise by Aureljz, DiamondTown & Zephyrusj
+- Athena by ThatGravyBoat
+- XP Storage by Pardys
+- FerriteCore by malte0811
+- Better Archeology by Pandarix, Dunk3ll1cht
+- Structory: Towers by Stardust Labs
+- Mythic Charms by Masik16u
+- Creeper Overhaul by Artist/Creator - Joosh, Dev - ThatGravyBoat
+- Forge Config API Port by Fuzs
+- Tom's Trading Network by tom5454
+- Resourceful Lib by ThatGravyBoat, Epic_Oreo
+- YUNG's Bridges by YUNGNICKYOUNG
+- Formations by SuperMartijn642
+- DragonLoot by Pois1x, Globox_Z
+- Cloth Config v11 by shedaniel
+- Frostiful by TheDeathlyCow
+- Bartering Station by Fuzs
+- Bosses of Mass Destruction (Beta) by Barribob
+- Bobby by johni0702
+- Continuity by PepperCode1
+- Lootintegrations mod by Someaddon
+- Highlighter by Grend
+- Clear Despawn by StrikerRocker
+- KleeSlabs by BlayTheNinth
+- Void Totem by Affehund
+- YUNG's API by YUNGNICKYOUNG
+- Hearth & Home by Starfish Studios
+- Mineblock's Repeated Utilities by mineblock11
+- Debugify by isXander
+- Keybind Fix by fzzyhmstrs
+- Zoomify by isXander
+- Inmis by Draylar
+- Roughly Enough Items by shedaniel
+- NetherPortalFix by BlayTheNinth
+- Ocean's Delight by Scouter
+- BetterCompatibilityChecker by Gaz
+- EnchantmentDescriptions by Darkhax
+- TerraBlender by Adubbz
+- Leaves Be Gone by Fuzs
+- Explorations by Buecher_wurm
+- Snow Under Trees by DeadlyMC, bl4ckscor3, mineblock11
+- Cull Less Leaves by isXander
+- Expanded Delight by ianm1647
+- DynamicTrim by Andrew6rant, Bawnorton
+- Paxi by YUNGNICKYOUNG
+- DimensionalSyncFixes by TeamPotato
+- Puzzles Lib by Fuzs
+- YUNG's Better Dungeons by YUNGNICKYOUNG, Acarii
+- Fabric API by FabricMC
+- Winterly by PinkGoosik, VioletSomik
+- Comforts by Illusive Soulworks
+- Night Config Fixes by Fuzs
+- Villagers Plus by Finallion
+- Handcrafted by Alex Nijjar, Kekie6
+- Cloth Config v11 by shedaniel
+- Controlling For Fabric by Jaredlll08
+- No Chat Reports by Aizistral
+- spark by Luck
+- Backpacked by MrCrayfish
+- Model Gap Fix by Mehvahdjukaar
+- Iceberg by Grend
+- Towns and Towers by Kubek, Biban_Auriu, Cristelknight
+- Entity Model Features by Traben
+- What Are They Up To by Corosus
+- Fabric Waystones by LordDeatHunter
+- Redirector by TeamPotato
+- Trading Post by Fuzs
+- Konkrete by Keksuccino
+- Entity Texture Features by Traben
+- BCLib by Quiqueck, paulevs, Bulldog83
+- Chalk by DaFuqs, mortuusars
+- Additional Structures by XxRexRaptorxX
+- Fabric API by FabricMC
+- Balm by BlayTheNinth
+- fastasyncworldsave Mod by Someaddon
+- Quartz Elevator by Aton-Kish
+- GeckoLibIrisCompat by ElocinDev
+- Sound Physics Remastered by Sonic Ether, vlad2305m, Max Henkel
+- Quartz Elevator by Aton-Kish
+- Fast IP Ping by Fallen_Breath
+- Reese's Sodium Options by FlashyReese
+- CoroUtil by Corosus
+- Snowy Spirit by Mehvahdjukaar, Plantkillable
+- Gotta Go Fast! by oskardotglobal
+- Lithium by JellySquid, 2No2Name
+- Dawn API by Hugman
+- Expanded Storage by Compasses
+- Things by glisco
+- YUNG's Better Jungle Temples by YUNGNICKYOUNG, Tera
+- Collective by Rick South
+- Connectivity Mod by Someaddons
+- Bountiful by Ejektaflex
+- Cristel Lib by Cristelknight999
+- cupboard by Someaddon
+- LambDynamicLights by LambdAurora
+- Goblin Traders by MrCrayfish
+- Structure Essentials Mod by Someaddons
+- JamLib by Jamalam
+- Simple Discord Rich Presence by Sunekaer
+- Supplementaries Squared by Mehvahdjukaar, Plantkillable
+- Controlify by isXander
+- Twigs by Ninni
+- Xaero's World Map by Xaero96
