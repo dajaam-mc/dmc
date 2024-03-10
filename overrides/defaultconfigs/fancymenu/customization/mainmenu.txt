@@ -203,15 +203,15 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = joinserver;45.61.170.59:25569%btnaction_splitter_fm%
-  x = 326
+  x = -101
   width = 202
   action = addbutton
   actionid = fb0e6a71-4421-4cb5-8f03-3498cf5051841710054344711
-  y = 209
+  y = -19
   label = Play!
   height = 18
 }
