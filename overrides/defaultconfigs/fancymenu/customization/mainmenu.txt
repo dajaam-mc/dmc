@@ -25,6 +25,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = -100
   action = movebutton
@@ -34,14 +39,14 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   orientation = mid-centered
-  x = 80
+  x = 81
   action = movebutton
-  y = 35
+  y = 23
 }
 
 customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  width = 20
+  width = 19
   action = resizebutton
   height = 20
 }
@@ -65,7 +70,7 @@ customization {
   orientation = mid-centered
   x = 59
   action = movebutton
-  y = 35
+  y = 23
 }
 
 customization {
@@ -84,16 +89,16 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = mid-centered
-  x = -100
+  x = -79
   action = movebutton
-  y = -30
+  y = 23
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 200
+  width = 20
   action = resizebutton
-  height = 19
+  height = 20
 }
 
 customization {
@@ -102,31 +107,11 @@ customization {
 }
 
 customization {
-  identifier = %id=376286%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=376286%
-  orientation = bottom-right
-  x = -117
-  action = movebutton
-  y = -25
-}
-
-customization {
-  identifier = %id=376286%
-  width = 114
-  action = resizebutton
-  height = 20
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = mid-centered
   x = -101
   action = movebutton
-  y = 13
+  y = 1
 }
 
 customization {
@@ -134,7 +119,7 @@ customization {
   orientation = mid-centered
   x = 2
   action = movebutton
-  y = 13
+  y = 1
 }
 
 customization {
@@ -142,7 +127,7 @@ customization {
   orientation = mid-centered
   x = -101
   action = movebutton
-  y = 35
+  y = 23
 }
 
 customization {
@@ -198,7 +183,7 @@ customization {
   width = 16
   action = addtexture
   actionid = c03be17b-5a17-4467-aeb2-9cfffe181c941686808672411
-  y = 37
+  y = 25
   height = 16
 }
 
@@ -215,5 +200,19 @@ customization {
   description = A guide on improving your FPS!
   label = Performance Guide
   height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver;45.61.170.59:25569%btnaction_splitter_fm%
+  x = 326
+  width = 202
+  action = addbutton
+  actionid = fb0e6a71-4421-4cb5-8f03-3498cf5051841710054344711
+  y = 209
+  label = Play!
+  height = 18
 }
 
