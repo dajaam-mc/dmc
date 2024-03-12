@@ -164,6 +164,7 @@ mode = "fast"
 				hippo = true
 				lizard = true
 				finch = true
+				duck = true
 
 			[light_sources.settings.entities.ecologics]
 				squirrel = true
@@ -221,6 +222,7 @@ mode = "fast"
 				mauler = true
 				iceologer = true
 				ice_chunk = true
+				rascal = true
 
 			[light_sources.settings.entities.goodall]
 				toucan = true
@@ -383,6 +385,17 @@ mode = "fast"
 
 			[light_sources.settings.entities.promenade]
 				lush_creeper = true
+
+			[light_sources.settings.entities.mythicmobs]
+				kobold_warrior = true
+				mushroom_thing = true
+				kobold = true
+				chupacabra = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				dripstone_creeper = true
+				snowy_creeper = true
 
 		[light_sources.settings.block_entities]
 

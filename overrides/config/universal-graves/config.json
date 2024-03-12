@@ -14,6 +14,7 @@
       "count": 0
     },
     "give_death_compass": false,
+    "enable_use_death_compass_to_open_gui": true,
     "enable_click_to_open_gui": true,
     "shift_and_use_quick_pickup": true,
     "allow_remote_protection_removal": true,
@@ -23,6 +24,7 @@
   "storage": {
     "experience_type": "percent_points",
     "experience_percent:setting_value": 100.0,
+    "can_store_only_xp": false,
     "alternative_experience_entity": false,
     "blocked_enchantments": []
   },
@@ -33,7 +35,8 @@
     "shift_location_on_failure": true,
     "max_shift_tries": 5,
     "max_shift_distance": 40,
-    "restore_replaced_block": false,
+    "generate_on_top_of_fluids": false,
+    "create_gravestone_after_emptying": false,
     "restore_replaced_block_after_player_breaking": true,
     "cancel_creation_for_damage_types": {},
     "cancel_creation_for_ignored_attacker_types": {},
@@ -62,10 +65,14 @@
   },
   "model": {
     "default": "default",
-    "alternative": []
+    "alternative": [],
+    "enable_geyser_workaround": true,
+    "gravestone_item_base": "minecraft:skeleton_skull",
+    "gravestone_item_nbt": {}
   },
   "ui": {
     "title": "<lang:'text.graves.players_grave':'${player}'>",
+    "admin_title": "<lang:'text.graves.admin_graves'>",
     "list_grave_icon": {
       "base": {
         "icon": "minecraft:chest",
@@ -81,6 +88,28 @@
         "icon": "minecraft:trapped_chest",
         "text": [
           "${position} <gray>(${world})",
+          "<yellow>${death_cause}",
+          "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
+          "<blue><lang:'text.graves.not_protected'>",
+          "<red><lang:'text.graves.break_time':'<white>${break_time}'>"
+        ]
+      }
+    },
+    "admin_list_grave_icon": {
+      "base": {
+        "icon": "minecraft:chest",
+        "text": [
+          "<dark_gray>[<white>${player}</>]</> ${position} <gray>(${world})",
+          "<yellow>${death_cause}",
+          "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
+          "<blue><lang:'text.graves.protected_time':'<white>${protection_time}'>",
+          "<red><lang:'text.graves.break_time':'<white>${break_time}'>"
+        ]
+      },
+      "alt": {
+        "icon": "minecraft:trapped_chest",
+        "text": [
+          "<dark_gray>[<white>${player}</>]</> ${position} <gray>(${world})",
           "<yellow>${death_cause}",
           "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
           "<blue><lang:'text.graves.not_protected'>",
