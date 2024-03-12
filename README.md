@@ -2,6 +2,8 @@
 
 DMC is a not so fork of Luna Pixel Studio's Better MC v24 (BMC2) that has many additions and moditications to better suit the needs of dajaam & friends community server featuring almost 300 mods!
 
+# [📖 Wiki](https://github.com/dajaam-mc/dmc/wiki)
+
 # Mods
 - Bobby [5.0.1] by johni0702
 - Simple Discord Rich Presence [4.0.3-build.40+mc1.20.1] by Sunekaer
